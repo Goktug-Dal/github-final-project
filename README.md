@@ -8,5 +8,5 @@ How To Run:
 5. The script will display the calculated simple interest
 
 Req:
-- Bash shell
+- Bash Shell
 - bc (basic calculator) utility
