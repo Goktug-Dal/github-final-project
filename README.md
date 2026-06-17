@@ -29,7 +29,7 @@ Where:
 ## Prerequisites
 
 - Bash shell
-- `bc` command-line calculator
+- `bc` command-line Calculator
 
 ## Usage
 
